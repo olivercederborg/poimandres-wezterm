@@ -52,10 +52,10 @@ function poimandres.select(palette)
 	return {
 		foreground = colors[palette].text,
 		background = colors[palette].background2,
-		cursor_bg = colors[palette].blue2,
-		cursor_border = colors[palette].blue2,
+		cursor_bg = colors[palette].blue4,
+		cursor_border = colors[palette].blue4,
 		cursor_fg = colors[palette].background2,
-		selection_bg = colors[palette].blue3,
+		selection_bg = colors[palette].blueGray3,
 		selection_fg = colors[palette].text,
 		ansi = {
 			colors[palette].background3,
