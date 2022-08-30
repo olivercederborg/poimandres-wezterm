@@ -1,5 +1,7 @@
 # Poimandres for Wezterm
 
+**Contents of this repo have been moved to [poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim) as extras, therefor this repo's contents might be outdated**
+
 ## Screenshots
 
 Base                       |  Storm
@@ -8,9 +10,21 @@ Base                       |  Storm
 
 ## Installation
 
-Currently you can only apply this colour scheme with the Lua version, which includes a `setup` function to change the flavour of the theme.
+**There are two ways to apply this color scheme:**
 
-**The steps**: 
+Poimandres is now included as a built-in theme in WezTerm, or you can use the legacy Lua version.
+
+**WezTerm included**:
+
+Set `color_scheme` in `wezterm.lua` to your favorite variant of the color scheme.
+
+```lua
+return {
+  color_scheme = "Poimandres", -- or "Poimandres Storm"
+}
+```
+
+**Lua version (legacy)**: 
 
 1. Clone this repo, or download the [poimandres.lua](https://github.com/olivercederborg/poimandres-wezterm/blob/main/poimandres.lua) file.
 
