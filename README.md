@@ -1,6 +1,6 @@
 # Poimandres for Wezterm
 
-**Contents of this repo have been moved to [poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim) as extras, therefor this repo's contents might be outdated**
+**⚠️ Contents of this repo have been moved to [poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim) as extras, therefor this repo's contents might be outdated ⚠️**
 
 ## Screenshots
 
