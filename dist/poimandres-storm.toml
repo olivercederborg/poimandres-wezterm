@@ -1,6 +1,7 @@
 [metadata]
-author = 'Oliver Cederborg'
 name = 'Poimandres Storm'
+author = 'Oliver Cederborg'
+origin_url = "https://github.com/olivercederborg/poimandres-wezterm"
 
 [colors]
 ansi = [
