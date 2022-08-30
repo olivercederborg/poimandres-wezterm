@@ -12,7 +12,7 @@ Base                       |  Storm
 
 **There are two ways to apply this color scheme:**
 
-Poimandres is now included as a built-in theme in WezTerm, or you can use the legacy Lua version.
+Poimandres is now included in WezTerm, or you can use the legacy Lua version.
 
 **WezTerm included**:
 
